@@ -1,4 +1,4 @@
-# SuperMarioBrosLibGDX
+# SuperMarioBros
 Projeto desenvolvido durante o Terceiro ano do Ensino médio utilizando a linguagem de programação Java juntamente com sua biblioteca gráfica nativa.
 
 ## Funcionalidades Desenvolvidas
