@@ -16,3 +16,6 @@ Projeto desenvolvido durante o Terceiro ano do Ensino médio utilizando a lingua
 
 **Mapa Level 1** <br/>
 ![Mapa Level 1](https://github.com/guilhermegals/Imagens/blob/master/SuperMarioBrosMapaLevel1.png "Mapa Level 1")
+
+
+**Desenvolvido por Guilherme Augusto Leite Santos em 2017**
